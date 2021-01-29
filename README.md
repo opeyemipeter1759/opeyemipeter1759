@@ -9,12 +9,11 @@
 
 <h3> 🛠 &nbsp;Technologies Stack CUM Programing Lang</h3>
 <p>Frontend Development</p>
-
-
     -🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/html5-444444?style=flat-square&logo=HTML5)
   ![CSS](https://img.shields.io/badge/css-444444?style=flat-square&logo=CSS3)
-  ![SASS](https://img.shields.io/badge/-SASS-444444?style=flat&logo=SASS&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![SASS](https://img.shields.io/badge/-SASS-444444?style=flat-square&logo=SCSS)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat-square&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-444444?style=flat-square&logo=react)
+  ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-444444?style=flat-square&logo=bootstrap)
      
