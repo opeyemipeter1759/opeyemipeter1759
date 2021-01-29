@@ -28,11 +28,20 @@
  <hr/>
  <p>Database</p>
  -🌐&nbsp;
-   ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=for-the-badge&logo=mysql)
+ 
+  ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=for-the-badge&logo=mysql)
 <hr/>
 -⚙️ &nbsp;
  
    ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
                                          ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
                                          ![NETLIFY](https://img.shields.io/badge/-Netlify-333333?style=for-the-badge&logo=netlify)
+                                         
+                                         
+<br/>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=opeyemipeter1759&theme=radical&show_icons=true" />
+  
+  </a>
+
                                          
