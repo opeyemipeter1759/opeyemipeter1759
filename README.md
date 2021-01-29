@@ -27,8 +27,16 @@
  <hr/>
  <p>Database</p>
  -🌐&nbsp;
- ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)
+ 
+ 
+ 
+
+ 
+   ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)
 <hr/>
  -⚙️ &nbsp;
- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+ 
+ 
+ 
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
