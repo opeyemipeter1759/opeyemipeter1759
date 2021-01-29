@@ -1,10 +1,8 @@
 <h2> Hi there 👋, I'm Opeyemi Peter </h2>
 
+<h3> 👨:smile: ME;   </h3>
 
-**opeyemipeter1759/opeyemipeter1759** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<h3> 👨🏻‍💻 &nbsp; ME;   </h3>
-
+-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
