@@ -22,10 +22,10 @@
     ![React](https://img.shields.io/badge/-React-444444?style=flat-square&logo=react)
     ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-444444?style=flat-square&logo=bootstrap)
     <p>Database</p>
-    <hr/>
+<hr/>
+   -🌐&nbsp;
     ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)
-    
-     <hr/>
-   - ⚙️ &nbsp;
+<hr/>
+   -⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
