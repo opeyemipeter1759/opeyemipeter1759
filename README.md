@@ -12,9 +12,7 @@
 
 
 
-
-
-    -🌐 &nbsp;
+  -🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/html5-444444?style=flat-square&logo=HTML5)
   ![CSS](https://img.shields.io/badge/css-444444?style=flat-square&logo=CSS3)
   ![SASS](https://img.shields.io/badge/-SASS-444444?style=flat-square&logo=SCSS)
