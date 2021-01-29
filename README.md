@@ -13,7 +13,11 @@
 <hr/>
 <p>Frontend Development</p>
   -🌐&nbsp;
-  ![HTML5](https://img.shields.io/badge/html5-444444?style=for-the-badge&logo=HTML5)
+  
+  
+  
+  
+   ![HTML5](https://img.shields.io/badge/html5-444444?style=for-the-badge&logo=HTML5)
   ![CSS](https://img.shields.io/badge/css-444444?style=for-the-badge&logo=CSS3)
   ![SASS](https://img.shields.io/badge/-SASS-444444?style=for-the-badge&logo=SCSS)
        ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=for-the-badge&logo=javascript)
