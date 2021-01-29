@@ -8,9 +8,9 @@
 - 👯 I’m looking to collaborate on Projects esp Open source.
 
 <h3> 🛠 &nbsp;Technologies Stack CUM Programing Lang</h3>
-    🌐 &nbsp;
+    -🌐 &nbsp;
    <ul>
-  <h3>
+   <h3>
     Frontend Development
   </h3>
   <li>
