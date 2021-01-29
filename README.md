@@ -17,12 +17,12 @@
   
   
   
-  ![HTML5](https://img.shields.io/badge/html5-444444?style=flat-square&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/css-444444?style=flat-square&logo=CSS3)
-  ![SASS](https://img.shields.io/badge/-SASS-444444?style=flat-square&logo=SCSS)
-       ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flatsquare&logo=javascript)
-       ![React](https://img.shields.io/badge/-React-444444?style=flat-square&logo=react)
-       ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-444444?style=flat-square&logo=bootstrap)
+  ![HTML5](https://img.shields.io/badge/html5-444444?style=for-the-badge&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/css-444444?style=for-the-badge&logo=CSS3)
+  ![SASS](https://img.shields.io/badge/-SASS-444444?style=for-the-badge&logo=SCSS)
+       ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=for-the-badge&logo=javascript)
+       ![React](https://img.shields.io/badge/-React-444444?style=for-the-badge&logo=react)
+       ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-444444?style=for-the-badge&logo=bootstrap)
 
  <hr/>
  <p>Database</p>
@@ -32,11 +32,9 @@
  
 
  
-   ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)
+   ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=for-the-badge&logo=mysql)
 <hr/>
- -⚙️ &nbsp;
+-⚙️ &nbsp;
  
- 
- 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
- ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+   ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+                                         ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
