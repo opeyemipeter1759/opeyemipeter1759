@@ -13,7 +13,7 @@
 
     -🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/html5-444444?style=flat-square&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/css-444444?style=flat-square&logo=1572B6)
+  ![CSS](https://img.shields.io/badge/css-444444?style=flat-square&logo=CSS3)
   ![SASS](https://img.shields.io/badge/-SASS-444444?style=flat&logo=SASS&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
